@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(233, 47%, 7%);
+}
+
+#div-0{
+    margin: 13% auto 15% auto;
+    width: 900px;
+}
+#div-1{
+    float: left;
+    background-color: hsl(244, 38%, 16%);
+    height: 294px;
+    width: 366px;
+    padding: 21px 23px 10px 37px;
+    border-radius: 10px 0px 0px 10px;
+}
+h1{
+    width: 350px;
+}
+p{
+    font-size: 15px;
+    width: 321px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: -43px;
+    margin-top: 44px;
+}
+.li-1{
+    width: 98px;
+}
+.li-2{
+    font-size: 21px;
+    color: white;
+}
+span{
+    color: hsla(0, 0%, 100%, 0.6);
+}
+img{
+    filter: invert(5%) sepia(100%) saturate(1000%) hue-rotate(
+    242deg) brightness(75%) contrast(91%);
+    border-radius: 0px 10px 10px 0px;
+}
